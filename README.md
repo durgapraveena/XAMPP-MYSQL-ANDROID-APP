@@ -32,10 +32,11 @@ So our android device will send a request to our API,  then our API will perform
 mysql database
 So open localhost/phpmyadmin and run the following query to create the above table.
 ##Creating PHP Project
-
 So inside htdocs (c:/xampp/htdocs) create a new folder (You can also use an IDE like PHP Storm to create project but remember create the project inside c:/xampp/htdocs only). 
 I have given the name HeroApi to my project. 
 Inside the project create two more folders named includes and Api. You can see the below screenshot for the directory structure that I am using. (I am using Sublime Text for coding server part).
+
  ![image](https://github.com/durgapraveena/XAMPP-MYSQL-ANDROID-APP/assets/88362905/6bd50f99-a62b-4ddc-a20f-5941113fc88d)
+ 
 
 
