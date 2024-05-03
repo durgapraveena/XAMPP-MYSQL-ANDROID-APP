@@ -63,5 +63,8 @@ And by default your application are restricted to communicate with non HTTPS URL
 ![image](https://github.com/durgapraveena/XAMPP-MYSQL-ANDROID-APP/assets/88362905/dce7ff52-73b8-4148-8744-4605a8619d51)
 ![image](https://github.com/durgapraveena/XAMPP-MYSQL-ANDROID-APP/assets/88362905/9d5aafa6-d882-4c94-8402-71dc153775ae)
 
+**REFERENCE LINKS**
+https://www.simplifiedcoding.net/android-mysql-tutorial-to-perform-basic-crud-operation/
+
 
 
